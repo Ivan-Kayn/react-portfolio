@@ -1,0 +1,17 @@
+.works__nav {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.4rem;
+}
+.works__nav-link {
+  font-size: .8rem;
+  color: white;
+
+  margin: 0 1.2rem;
+
+  &:hover {
+    cursor: pointer;
+    color: white;
+    text-decoration: underline;
+  }
+}
