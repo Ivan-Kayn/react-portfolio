@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.7ebd3f3c.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.783371e2.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.783371e2.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.0f0e30ac.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.0f0e30ac.js.map",
+    "static/js/2.4208b52f.chunk.js": "/react-portfolio/static/js/2.4208b52f.chunk.js",
+    "static/js/2.4208b52f.chunk.js.map": "/react-portfolio/static/js/2.4208b52f.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.7ebd3f3c.chunk.css.map": "/react-portfolio/static/css/main.7ebd3f3c.chunk.css.map",
+    "static/js/2.4208b52f.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.4208b52f.chunk.js.LICENSE.txt",
+    "static/media/blk-design-system-react.scss?v=1.1.0": "/react-portfolio/static/media/square5.16283001.png",
+    "static/media/italy.5729cb0c.svg": "/react-portfolio/static/media/italy.5729cb0c.svg",
+    "static/media/nucleo-icons.css": "/react-portfolio/static/media/nucleo.bd5cce8b.eot",
+    "static/media/russia.3056142f.svg": "/react-portfolio/static/media/russia.3056142f.svg",
+    "static/media/united-kingdom.7bb03f7e.svg": "/react-portfolio/static/media/united-kingdom.7bb03f7e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f0e30ac.js",
+    "static/js/2.4208b52f.chunk.js",
+    "static/css/main.7ebd3f3c.chunk.css",
+    "static/js/main.783371e2.chunk.js"
+  ]
+}
